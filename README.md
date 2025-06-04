@@ -86,7 +86,7 @@
 
 <section id="home">
   <h2>הכרת האפליקציה</h2>
-  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/watch?v=iDbdXTMnOmE&ab_channel=TED-Ed" allowfullscreen></iframe>
 </section>
 
 <section id="features" class="features">
